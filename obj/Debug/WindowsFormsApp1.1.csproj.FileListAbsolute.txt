@@ -1,0 +1,19 @@
+E:\program hdd\WindowsFormsApp1.1\WindowsFormsApp1.1\bin\Debug\WindowsFormsApp1.1.exe.config
+E:\program hdd\WindowsFormsApp1.1\WindowsFormsApp1.1\bin\Debug\WindowsFormsApp1.1.exe
+E:\program hdd\WindowsFormsApp1.1\WindowsFormsApp1.1\bin\Debug\WindowsFormsApp1.1.pdb
+E:\program hdd\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.1.csprojAssemblyReference.cache
+E:\program hdd\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1._1.Form1.resources
+E:\program hdd\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1._1.Properties.Resources.resources
+E:\program hdd\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.1.csproj.GenerateResource.cache
+E:\program hdd\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.1.csproj.CoreCompileInputs.cache
+E:\program hdd\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.1.exe
+E:\program hdd\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.1.pdb
+C:\Users\Виктория\Desktop\WindowsFormsApp1.1\WindowsFormsApp1.1\WindowsFormsApp1.1\bin\Debug\WindowsFormsApp1.1.exe.config
+C:\Users\Виктория\Desktop\WindowsFormsApp1.1\WindowsFormsApp1.1\WindowsFormsApp1.1\bin\Debug\WindowsFormsApp1.1.exe
+C:\Users\Виктория\Desktop\WindowsFormsApp1.1\WindowsFormsApp1.1\WindowsFormsApp1.1\bin\Debug\WindowsFormsApp1.1.pdb
+C:\Users\Виктория\Desktop\WindowsFormsApp1.1\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.1.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\WindowsFormsApp1.1\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1._1.Form1.resources
+C:\Users\Виктория\Desktop\WindowsFormsApp1.1\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1._1.Properties.Resources.resources
+C:\Users\Виктория\Desktop\WindowsFormsApp1.1\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.1.csproj.GenerateResource.cache
+C:\Users\Виктория\Desktop\WindowsFormsApp1.1\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.1.exe
+C:\Users\Виктория\Desktop\WindowsFormsApp1.1\WindowsFormsApp1.1\WindowsFormsApp1.1\obj\Debug\WindowsFormsApp1.1.pdb
